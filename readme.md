@@ -27,4 +27,7 @@ dw dw you get an OLED to inform you of how much time you have left :)
 
 ## images
 
+![](images/banner.png)
+![](images/3d.png)
+![](images/pcb.png)
 ![](images/schematic.png)
